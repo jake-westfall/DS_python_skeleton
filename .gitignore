@@ -2,6 +2,13 @@
 data/*
 !data/.gitkeep
 
+# OS stuff
+.DS_Store
+data/.DS_Store
+docs/.DS_Store
+package_name/.DS_Store
+tests/.DS_Store
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
